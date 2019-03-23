@@ -14,6 +14,7 @@
 
 - 账号说明：每个人的账号名为名字缩写加姓氏全拼，如zydu(杜卓洋)，初始密码为12345，可自行更改。
 - 远程登录： 通过命令行ssh远程登陆到服务器，例如 ssh user@10.15.90.168，其中user是用户名。
+- 可使用windows自带“远程桌面连接”进行图形界面Xfce访问服务器，地址10.15.90.168，其他选项默认即可。
 - 关于vpn：
     - 可以直接上内网，外网的上网教程可参考：https://blog.csdn.net/qq_19260887/article/details/76662816#2vpn%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9E%E6%8E%A5
     - vpn-connect已安装，可直接 sudo vpn-connect 连外网， sudo vpn-connect -c 可配置用户名密码。
