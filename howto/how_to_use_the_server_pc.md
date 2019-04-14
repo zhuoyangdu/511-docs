@@ -22,7 +22,7 @@
 
 ## MATLAB使用
 - MATLAB已经安装在 /usr/local/MATLAB 目录下,所有用户均已授权  
-- 可以直接 'sh /usr/local/MATLAB/R2018b/bin/matlab' 打开使用  
+- 可以直接 `sh /usr/local/MATLAB/R2018b/bin/matlab` 打开使用  
 - 参考以下链接可以自己创建快捷方式：https://blog.csdn.net/weixin_41038644/article/details/84680646  
 - MATLAB更新日期：2019年4月14日
 
