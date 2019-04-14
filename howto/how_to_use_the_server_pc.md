@@ -9,6 +9,7 @@
 - Ubuntu16.04
 - ROS Kinetic
 - nvidia 390 + cuda 8.0 + cudnn 6.0
+- MATLAB R2018b
 
 ## 登录说明
 
@@ -18,6 +19,12 @@
 - 关于vpn：
     - 可以直接上内网，外网的上网教程可参考：https://blog.csdn.net/qq_19260887/article/details/76662816#2vpn%E5%AE%A2%E6%88%B7%E7%AB%AF%E8%BF%9E%E6%8E%A5
     - vpn-connect已安装，可直接 sudo vpn-connect 连外网， sudo vpn-connect -c 可配置用户名密码。
+
+## MATLAB使用
+- MATLAB已经安装在 /usr/local/MATLAB 目录下,所有用户均已授权  
+- 可以直接 'sh /usr/local/MATLAB/R2018b/bin/matlab' 打开使用  
+- 参考以下链接可以自己创建快捷方式：https://blog.csdn.net/weixin_41038644/article/details/84680646  
+- MATLAB更新日期：2019年4月14日
 
 ## 使用规范
 
